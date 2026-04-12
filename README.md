@@ -4,12 +4,11 @@
   half demon, half weed-free
 
 <div align="center">
-  <a href="https://open.spotify.com/track/4CNoT5z9vIuYvR6xY8X9Wk">
-    <img src="https://i.scdn.co/image/ab67616d0000b2737669e46a78f15f6067140f7b" width="300" style="border-radius: 20px;" alt="Kesha - Joy Ride">
+  <a href="https://open.spotify.com/track/629pX9T6u00L2O8S9hP0H0">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737669e46a78f15f6067140f7b" width="300" style="border-radius: 15px;" alt="Kesha - Joy Ride">
     <br>
-    <kbd><b> 🏎️ Kesha — Joy Ride </b></kbd>
-    <br><br>
-    <img src="https://img.shields.io/badge/PLAY_ON-SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Play">
+    <h3>🏎️ Kesha — Joy Ride</h3>
+    <img src="https://img.shields.io/badge/LISTEN_ON-SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </div>
   
