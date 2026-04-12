@@ -3,8 +3,11 @@
   
   half demon, half weed-free
 
-# My Favorite Track 🏎️
-
-[![Listen on Spotify](https://img.shields.io/badge/Kesha-Joy%20Ride-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/629pX9T6u00L2O8S9hP0H0)
+<div align="center">
+  <a href="https://open.spotify.com/track/5oOZGQnZZToIHI55lw2E97?si=099f9e62d6e347f9">
+    <h3>🏎️ Kesha — Joy Ride</h3>
+    <img src="https://img.shields.io/badge/LISTEN_ON-SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+  </a>
+</div>
   
 in-game screenshot sims 4 with ai enhancement</sub>
