@@ -3,8 +3,6 @@
   
   half demon, half weed-free
 
-  <a href="https://open.spotify.com/track/4CNoT5z9vIuYvR6xY8X9Wk">
-  <img src="https://spotify-form-mini.vercel.app/api/view?uri=spotify:track:4CNoT5z9vIuYvR6xY8X9Wk&theme=dark" alt="Favorite Track" width="400" />
-</a>
+  [![Spotify](https://img.shields.io/badge/Listening%20to-Hentai%20Xander-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4CNoT5z9vIuYvR6xY8X9Wk)
   
 in-game screenshot sims 4 with ai enhancement</sub>
