@@ -3,13 +3,13 @@
   
   half demon, half weed-free
 
- <<div align="center">
+<div align="center">
   <a href="https://open.spotify.com/track/4CNoT5z9vIuYvR6xY8X9Wk">
-    <img src="https://i.scdn.co/image/ab67616d0000b2734139850e0600109033325091" width="300" style="border-radius: 15px;" alt="Hentai Xander - in heat.">
+    <img src="https://i.scdn.co/image/ab67616d0000b2737669e46a78f15f6067140f7b" width="300" style="border-radius: 20px;" alt="Kesha - Joy Ride">
     <br>
-    <sub><b>Hentai Xander — in heat.</b></sub>
-    <br>
-    <img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify" alt="Listen">
+    <kbd><b> 🏎️ Kesha — Joy Ride </b></kbd>
+    <br><br>
+    <img src="https://img.shields.io/badge/PLAY_ON-SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Play">
   </a>
 </div>
   
