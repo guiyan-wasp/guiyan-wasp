@@ -19,7 +19,7 @@
 **Hometown:** Remembers
 
 **Description:**
-A seven-foot athlete with tiger stripes; instead of horns—a pair of venomous stingers. Smells of expensive alcohol and fresh-cut grass. Knows what you want and has already figured out how much you'll pay for it.
+A seven-foot athlete with tiger stripes; instead of horns a pair of venomous stingers. Smells of expensive alcohol and fresh-cut grass. Knows what you want and has already figured out how much you'll pay for it.
 
 **Traits:**
 An egocentric schemer with the manners of a gentleman.
