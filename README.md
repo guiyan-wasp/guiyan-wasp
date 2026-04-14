@@ -5,8 +5,8 @@
 <a href="https://open.spotify.com/track/5oOZGQnZZToIHI55lw2E97?si=ec994ea52c114ea6">
     <kbd><b> 🏎️ Kesha — Joy Ride </b></kbd>
 </a>
-  
-### Character Profile: Wispa
+
+Wispa
 
 **Race:** Demon
 
