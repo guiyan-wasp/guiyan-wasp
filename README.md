@@ -6,4 +6,4 @@
     <kbd><b> 🏎️ Kesha — Joy Ride </b></kbd>
 </a>
 
-**Wispa** — **Race:** Demon / **Faction:** Criminal Syndicate / **Profession:** Budding Entrepreneur / **Age:** No remembers / **Hometown:** Remembers.
+**Wispa** — **Race:** Demon / **Faction:** Criminal Syndicate / **Profession:** Budding Entrepreneur / **Age:** No remembers
