@@ -6,23 +6,12 @@
     <kbd><b> 🏎️ Kesha — Joy Ride </b></kbd>
 </a>
 
-Wispa
+# Wispa: The Gentleman of Sota
 
-**Race:** Demon
+**Demon | Criminal Syndicate | Budding Entrepreneur**
 
-**Faction:** Criminal Syndicate
+Standing seven feet tall with the lethal grace of a tiger, Wispa is a creature of sharp contrasts. Where others have horns, he bears a pair of venomous stingers; where others seek redemption, he smells of top-shelf liquor and fresh-cut grass. He is a man who knows exactly what you want—and he’s already calculated your price.
 
-**Profession:** Budding Entrepreneur
+Wispa’s journey began in the dark corners of soul-harvesting and dive bars, where he mastered the arts of both violence and vice. Having built a reputation as a ruthless enforcer for the Syndicate and a legendary gigolo, this egocentric schemer is now pivoting toward his true passion: a personal empire known as **Sota**.
 
-**Age:** No remembers
-
-**Hometown:** Remembers
-
-**Description:**
-A seven-foot athlete with tiger stripes; instead of horns a pair of venomous stingers. Smells of expensive alcohol and fresh-cut grass. Knows what you want and has already figured out how much you'll pay for it.
-
-**Traits:**
-An egocentric schemer with the manners of a gentleman.
-
-**History:**
-Started with soul harvesting and bars. Made a name in crime while simultaneously becoming a legend as a gigolo. Now Wispa is building his personal empire called "Sota" on his own ranch. Lives for his own pleasure, tends a bloody garden, and secretly sponsors the mother of his child, preferring the role of a dangerous patron over domestic comfort.
+Currently residing on his private ranch, he lives entirely for his own pleasure. Between tending to a bloody garden and secretly bankrolling the mother of his child, Wispa has traded the hope of domestic comfort for the power of a dangerous patron. Whether he’s mixing a drink or closing a deal, one thing is certain: everything he does is by design.
