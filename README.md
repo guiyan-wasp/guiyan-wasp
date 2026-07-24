@@ -9,8 +9,7 @@ I draw ponies and anthro characters (anything walking on two legs, basically).
 
 If you actually want to see my work, use the links below.
 
-With love, 
-Daheyasi the Goat 🐐
+With love
  
 <a href="https://open.spotify.com/track/5oOZGQnZZToIHI55lw2E97?si=ec994ea52c114ea6">
     <kbd><b> 🏎️ Kesha — Joy Ride </b></kbd>
