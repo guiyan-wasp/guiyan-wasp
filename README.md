@@ -15,3 +15,5 @@ With love
 <a href="https://open.spotify.com/track/5oOZGQnZZToIHI55lw2E97?si=ec994ea52c114ea6">
     <kbd><b> 🏎️ Kesha — Joy Ride </b></kbd>
 </a>
+
+<img width="190" height="300" alt="pony-town-swag-dance move 1-blinking-padded-5x" src="https://github.com/user-attachments/assets/7cb6229d-765d-465e-8388-ec60cf0f8a64" />
