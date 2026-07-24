@@ -1,6 +1,6 @@
  # Yo.
 
-Still building this page. Stop refreshing.
+Still building this page
 
 I draw ponies and anthro characters (anything walking on two legs, basically). 
 
