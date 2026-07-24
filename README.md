@@ -16,4 +16,5 @@ With love
     <kbd><b> 🏎️ Kesha — Joy Ride </b></kbd>
 </a>
 
+<img width="540" height="30" alt="image" src="https://github.com/user-attachments/assets/40444763-7dfa-4b76-96b5-d80f38269bf3" />
 
