@@ -1,6 +1,7 @@
+
  # Yo.
 <p align="center">
-  <img src="https://64.media.tumblr.com/76dcd398dd414ece8f3ad87753335f99/cfdfc63032f51443-f2/s250x400/ede1c7af3a64e1bf8c9a5d9e0005e5117d3b2208.pnj" width="200" alt="Daheyasi Art">
+  <img width="4096" height="2897" alt="лаки чарм" src="https://github.com/user-attachments/assets/8366f658-0043-452d-ae42-e3e647e7359d" width="200" alt="Daheyasi Art">
 </p>
 
 I draw ponies and anthro characters. 
